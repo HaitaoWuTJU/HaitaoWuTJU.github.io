@@ -17,16 +17,34 @@
 
 <hr>
 <h1 id="Boji（啵唧）"><a href="#Boji（啵唧）" class="headerlink" title="Boji（啵唧）"></a><a href="/Cats/boji">Boji（啵唧）</a></h1><p>She’s a very very cute orange cat and has an orange cat friend called Kuji.</p>
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="flex: 1; text-align: center; padding: 10px;">
+<div style="text-align: center;
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+        }
+        .image-container img {
+            flex: 1;
+            max-width: 30%; /* 电脑上每张图占据30%宽度 */
+        }
+        @media (max-width: 768px) {
+            .image-container {
+                flex-direction: column; /* 垂直排列 */
+                align-items: center; /* 居中对齐 */
+            }
+            .image-container img {
+                max-width: 100%; /* 手机上每张图占据100%宽度 */
+                margin-bottom: 10px; /* 图像之间添加垂直间距 */
+            }
+        }">
+    <!-- <div style="flex: 1; text-align: center; padding: 10px;"> -->
          <img src="/img/cats/boji/IMG_0422.JPG" height = "200" alt="" align=center />
-    </div>
-    <div style="flex: 1; text-align: center; padding: 10px;">
+    <!-- </div> -->
+    <!-- <div style="flex: 1; text-align: center; padding: 10px;"> -->
         <img src="/img/cats/boji/IMG_0418.JPG" height = "200" alt="" align=center />
-    </div>
-    <div style="flex: 1; text-align: center; padding: 10px;">
+    <!-- </div> -->
+    <!-- <div style="flex: 1; text-align: center; padding: 10px;"> -->
         <img src="/img/cats/boji/IMG_2130.JPG" height = "200" alt="" align=center />
-    </div>
+    <!-- </div> -->
 </div>
 
 
