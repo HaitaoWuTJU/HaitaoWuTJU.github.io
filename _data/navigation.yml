@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Preprint"
-    url: "/#-preprint"
+    url: "/#preprint"
 
   - title: "Publications"
     url: "/#-publications"
