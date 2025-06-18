@@ -29,10 +29,11 @@ He has published papers at top CV and ML conferences such as CVPR and ICML, with
 - *2024.12*: &nbsp;🎉🎉 Starting an internship at Shanghai AI lab, mentored by Huaxi Huang.
 - *2023.04*: &nbsp;🎉🎉 One paper about multimodal fusion accepted by ICML 2023, thanks to all co-authors!
 
-<h1>
+<!-- <h1>
   <img src="images/arxiv-logomark-small.svg" alt="arXiv Logo" style="vertical-align: middle; height: 1.5em; margin-right: 0.4em;">
   Preprint
-</h1>
+</h1> -->
+# 📝 Preprint
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv:2504.05812</div><img src='images/EMPO_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,8 +42,8 @@ He has published papers at top CV and ML conferences such as CVPR and ICML, with
 
 Qingyang Zhang, **Haitao Wu**, Changqing Zhang, Peilin Zhao, Yatao Bian
 
-
 [[Paper](https://arxiv.org/abs/2504.05812)] [[Code](https://github.com/QingyangZhang/EMPO)]
+
 
 
 # 📝 Publications
