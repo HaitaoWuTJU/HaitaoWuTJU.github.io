@@ -36,6 +36,7 @@ I have published papers at top conferences such as CVPR and ICML, with a total o
 
 [Provable Dynamic Fusion for Low-quality Multimodal Learning
 ](https://proceedings.mlr.press/v202/zhang23ar/zhang23ar.pdf)
+
 Qingyang Zhang, **Haitao Wu**, Changqing Zhang, Qinghua Hu, Huazhu Fu, Joey Tianyi Zhou, Xi Peng
 
 [[Paper](https://proceedings.mlr.press/v202/zhang23ar/zhang23ar.pdf)] [[Code](https://github.com/QingyangZhang/QMF)]
