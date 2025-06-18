@@ -74,7 +74,7 @@ Qingyang Zhang, **Haitao Wu**, Changqing Zhang, Peilin Zhao, Yatao Bian
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/QMF_cover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/QMF_cover.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Provable Dynamic Fusion for Low-quality Multimodal Learning
