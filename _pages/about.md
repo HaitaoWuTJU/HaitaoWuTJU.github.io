@@ -35,6 +35,18 @@ He has published papers at top CV and ML conferences such as CVPR and ICML, with
 </h1>
 <!-- # 📝 Preprint -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv:2504.20771</div><img src='images/TMBench_cover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Computational Reasoning of Large Language Models](https://arxiv.org/abs/2504.20771)
+
+**Haitao Wu**, Zongbo Han, Joey Tianyi Zhou, Huaxi Huang, Changqing Zhang
+
+[[Paper](https://arxiv.org/abs/2504.20771)] [[Code](https://github.com/HaitaoWuTJU/Turing-Machine-Bench)]
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv:2504.05812</div><img src='images/EMPO_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +62,7 @@ Qingyang Zhang, **Haitao Wu**, Changqing Zhang, Peilin Zhao, Yatao Bian
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ubp_cover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/UBP_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior
@@ -59,9 +71,10 @@ Qingyang Zhang, **Haitao Wu**, Changqing Zhang, Peilin Zhao, Yatao Bian
 **Haitao Wu**, Qing Li, Changqing Zhang, Zhen He, Xiaomin Ying
 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Bridging_the_Vision-Brain_Gap_with_an_Uncertainty-Aware_Blur_Prior_CVPR_2025_paper.pdf)] [[Code](https://github.com/HaitaoWuTJU/Uncertainty-aware-Blur-Prior)]
+</div>
+</div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/qmf_cover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/QMF_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Provable Dynamic Fusion for Low-quality Multimodal Learning
