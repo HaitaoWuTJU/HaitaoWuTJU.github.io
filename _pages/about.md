@@ -34,7 +34,6 @@ He has published papers at top CV and ML conferences such as CVPR and ICML, with
   Preprint
 </h1>
 <!-- # 📝 Preprint -->
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv:2504.20771</div><img src='images/TMBench_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
