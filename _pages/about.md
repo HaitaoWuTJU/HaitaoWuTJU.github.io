@@ -44,6 +44,7 @@ Qingyang Zhang, **Haitao Wu**, Changqing Zhang, Peilin Zhao, Yatao Bian
 
 [[Paper](https://arxiv.org/abs/2504.05812)] [[Code](https://github.com/QingyangZhang/EMPO)]
 
+
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ubp_cover.png' alt="sym" width="100%"></div></div>
@@ -78,10 +79,9 @@ Qingyang Zhang, **Haitao Wu**, Changqing Zhang, Qinghua Hu, Huazhu Fu, Joey Tian
 - *2022.09* National Scholarship
 
 
-
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2019.09 - 2023.06*, Bachelor of Science in Artificial Intelligence.  -->
+# 📖 Educations
+- *2023.09 - Now*, Master of Science in Computer Science, Tianjin University
+- *2019.09 - 2023.06*, Bachelor of Science in Artificial Intelligence, Tianjin University
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
