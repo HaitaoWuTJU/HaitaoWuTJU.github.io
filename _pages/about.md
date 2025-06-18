@@ -18,29 +18,34 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hai-Tao Wu is now a second-year graduate student at Tianjin University under the supervision of Professor ChangqingZhang He has received systematic learning in artificial intelligence and computer science, including
-machine learning, computer vision, natural language processing, and speech information processing. He is self-motivated, has diverse learning interests, and strives for deep analytical thinking in the field of multimodal. He is currently working on research related to multimodal fusion and alignment, as well as reasoning and evaluation in large language models. I have published at CVPR, ICML conference with total <a href='https://scholar.google.com/citations?user=MawuZZUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+machine learning, computer vision, natural language processing, and speech information processing. He is self-motivated, has diverse learning interests, and strives for deep analytical thinking in the field of multimodal. He is currently working on research related to multimodal fusion and alignment, as well as reasoning and evaluation in large language models. 
+<!-- I have published at CVPR, ICML conference with total <a href='https://scholar.google.com/citations?user=MawuZZUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
+I have published papers at top conferences such as CVPR and ICML, with a total of <strong>101</strong> Google Scholar citations.
 
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 We release two preprint about LLM Reasoning.
 - *2025.02*: &nbsp;🎉🎉 One paper about multimodal alignment accepted by CVPR 2025, thanks to all co-authors!
+- *2024.12*: &nbsp;🎉🎉 Starting an internship at Shanghai AI lab, mentored by Huaxi Huang.
 - *2023.04*: &nbsp;🎉🎉 One paper about multimodal fusion accepted by ICML 2023, thanks to all co-authors!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/qmf_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Provable Dynamic Fusion for Low-quality Multimodal Learning
+](https://proceedings.mlr.press/v202/zhang23ar/zhang23ar.pdf)
+Qingyang Zhang, **Haitao Wu**, Changqing Zhang, Qinghua Hu, Huazhu Fu, Joey Tianyi Zhou, Xi Peng
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[[Paper](https://proceedings.mlr.press/v202/zhang23ar/zhang23ar.pdf)] [[Code](https://github.com/QingyangZhang/QMF)]
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
