@@ -30,7 +30,7 @@ He has published papers at top CV and ML conferences such as CVPR and ICML, with
 - *2023.04*: &nbsp;🎉🎉 One paper about multimodal fusion accepted by ICML 2023, thanks to all co-authors!
 
 <h1>
-  <img src="images/arxiv-logomark-small.svg" alt="arXiv Logo" style="vertical-align: middle; height: 1.5em; margin-right: 0.4em;">
+  <img src="images/arxiv-logomark-small.svg" id="preprint" alt="arXiv Logo" style="vertical-align: middle; height: 1.5em; margin-right: 0.4em;">
   Preprint
 </h1>
 <!-- # 📝 Preprint -->
@@ -74,7 +74,8 @@ Qingyang Zhang, **Haitao Wu**, Changqing Zhang, Peilin Zhao, Yatao Bian
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/QMF_cover.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/UBP_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Provable Dynamic Fusion for Low-quality Multimodal Learning
