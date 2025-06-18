@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hai-Tao Wu is now a second-year graduate student at Tianjin University under the supervision of Professor ChangqingZhang He has received systematic learning in artificial intelligence and computer science, including
+Hai-Tao Wu is now a second-year graduate student at Tianjin University under the supervision of Professor Changqing Zhang. He has received systematic learning in artificial intelligence and computer science, including
 machine learning, computer vision, natural language processing, and speech information processing. He is self-motivated, has diverse learning interests, and strives for deep analytical thinking in the field of multimodal. He is currently working on research related to multimodal fusion and alignment, as well as reasoning and evaluation in large language models. 
 <!-- I have published at CVPR, ICML conference with total <a href='https://scholar.google.com/citations?user=MawuZZUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
-I have published papers at top conferences such as CVPR and ICML, with a total of <strong>101</strong> Google Scholar citations.
+He has published papers at top CV and ML conferences such as CVPR and ICML, with a total of <strong>101</strong> Google Scholar citations.
 
 
 # 🔥 News
@@ -29,7 +29,33 @@ I have published papers at top conferences such as CVPR and ICML, with a total o
 - *2024.12*: &nbsp;🎉🎉 Starting an internship at Shanghai AI lab, mentored by Huaxi Huang.
 - *2023.04*: &nbsp;🎉🎉 One paper about multimodal fusion accepted by ICML 2023, thanks to all co-authors!
 
-# 📝 Publications 
+<h1>
+  <img src="images/arxiv-logomark-small.svg" alt="arXiv Logo" style="vertical-align: middle; height: 1.5em; margin-right: 0.4em;">
+  Preprint
+</h1>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv:2504.05812</div><img src='images/EMPO_cover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization](https://arxiv.org/abs/2504.05812)
+
+Qingyang Zhang, **Haitao Wu**, Changqing Zhang, Peilin Zhao, Yatao Bian
+
+
+[[Paper](https://arxiv.org/abs/2504.05812)] [[Code](https://github.com/QingyangZhang/EMPO)]
+
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ubp_cover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior
+](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Bridging_the_Vision-Brain_Gap_with_an_Uncertainty-Aware_Blur_Prior_CVPR_2025_paper.pdf)
+
+**Haitao Wu**, Qing Li, Changqing Zhang, Zhen He, Xiaomin Ying
+
+[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Bridging_the_Vision-Brain_Gap_with_an_Uncertainty-Aware_Blur_Prior_CVPR_2025_paper.pdf)] [[Code](https://github.com/HaitaoWuTJU/Uncertainty-aware-Blur-Prior)]
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/qmf_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,17 +74,19 @@ Qingyang Zhang, **Haitao Wu**, Changqing Zhang, Qinghua Hu, Huazhu Fu, Joey Tian
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Honors and Awards
+- *2022.09* National Scholarship
 
-# 📖 Educations
+
+
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2023.06*, Bachelor of Science in Artificial Intelligence.  -->
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.12 - Now*, Shanghai AI Lab, China.
+- *2021.9 - 2021.12*, Baidu, China.
