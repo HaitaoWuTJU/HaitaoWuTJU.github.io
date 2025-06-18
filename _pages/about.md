@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hai-Tao Wu is now a second-year graduate student at Tianjin University under the supervision of Professor Changqing Zhang. He has received systematic learning in artificial intelligence and computer science, including
+Haitao Wu is now a second-year graduate student at Tianjin University under the supervision of Professor Changqing Zhang. He has received systematic learning in artificial intelligence and computer science, including
 machine learning, computer vision, natural language processing, and speech information processing. He is self-motivated, has diverse learning interests, and strives for deep analytical thinking in the field of multimodal. He is currently working on research related to multimodal fusion and alignment, as well as reasoning and evaluation in large language models. 
 <!-- I have published at CVPR, ICML conference with total <a href='https://scholar.google.com/citations?user=MawuZZUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 He has published papers at top CV and ML conferences such as CVPR and ICML, with a total of <strong>101</strong> Google Scholar citations.
