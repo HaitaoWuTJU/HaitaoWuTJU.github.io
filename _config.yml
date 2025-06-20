@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haitao Wu"
   avatar           : "images/wht-2024.jpg"
-  bio              : "Focusing on multimodal and large language models. "
+  bio              : "Focusing on multimodal learning and large language models. "
   location         : "Beijing, China"
   employer         : "Tianjin University & Shanghai AI Lab"
   pubmed           : 
