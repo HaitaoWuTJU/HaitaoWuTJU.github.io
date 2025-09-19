@@ -21,12 +21,13 @@ Haitao Wu is now a second-year graduate student at Tianjin University under the 
 machine learning, computer vision, natural language processing, and speech information processing. He is self-motivated, has diverse learning interests, and strives for deep analytical thinking in the field of multimodal. He is currently working on research related to multimodal fusion and alignment, as well as reasoning and evaluation in large language models. 
 <!-- I have published at CVPR, ICML conference with total <a href='https://scholar.google.com/citations?user=MawuZZUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 <!-- He has published papers at top CV and ML conferences such as CVPR and ICML, with a total of <strong>101</strong> Google Scholar citations. -->
-He has published papers at top CV and ML conferences such as CVPR and ICML, with <a href='https://scholar.google.com/citations?user=MawuZZUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+He has published papers at top CV and ML conferences such as CVPR, ICML and NeurIPS, with <a href='https://scholar.google.com/citations?user=MawuZZUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper about LLM Reasoning accepted by NeurIPS 2025, thanks to all co-authors!
 - *2025.04*: &nbsp;🎉🎉 We release two preprint about LLM Reasoning.
 - *2025.02*: &nbsp;🎉🎉 One paper about multimodal alignment accepted by CVPR 2025, thanks to all co-authors!
-- *2024.12*: &nbsp;🎉🎉 Starting an internship at Shanghai AI lab, mentored by Huaxi Huang.
+- *2024.12*: &nbsp;🎉🎉 Starting an internship at Shanghai AI lab.
 - *2023.04*: &nbsp;🎉🎉 One paper about multimodal fusion accepted by ICML 2023, thanks to all co-authors!
 
 <h1>
@@ -46,7 +47,9 @@ He has published papers at top CV and ML conferences such as CVPR and ICML, with
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv:2504.05812</div><img src='images/EMPO_cover.png' alt="sym" width="100%"></div></div>
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/EMPO_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization](https://arxiv.org/abs/2504.05812)
@@ -58,8 +61,6 @@ Qingyang Zhang, **Haitao Wu**, Changqing Zhang, Peilin Zhao, Yatao Bian
 </div>
 </div>
 
-
-# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/UBP_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
